@@ -7,8 +7,8 @@ def speak_to_grandma(phrase)
   elsif phrase == "Hi"
     puts "HUH?! SPEAK UP, SONNY".upcase
   elsif phrase == "WHAT DID YOU EAT TODAY?"
-    puts "  NO, NOT SINCE 1938!".upcase
-  elsif phrase
+    puts "NO, NOT SINCE 1938!".upcase
+  elsif phrase == "WHAT?".upcase
     puts
 
 
