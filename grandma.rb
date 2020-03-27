@@ -6,7 +6,7 @@ def speak_to_grandma(phrase)
     puts "HUH?! SPEAK UP, SONNY".upcase
   elsif phrase == "Hi"
     puts "HUH?! SPEAK UP, SONNY".upcase
-  
+  elsif phrase ==
 
 
 
