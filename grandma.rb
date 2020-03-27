@@ -9,6 +9,7 @@ def speak_to_grandma(phrase)
   elsif phrase == "WHAT DID YOU EAT TODAY?"
     puts "  NO, NOT SINCE 1938!".upcase
   else
+    puts
 
 
 
